@@ -21,7 +21,7 @@ semantic distributions of positive and negative samples. We conduct extensive ex
 used benchmark datasets, including MSCOCO and Flickr30K. Experimental results verify that DAIM can
 achieve a higher performance (e.g., 4.7% RSUM gain on MSCOCO) than the state-of-the-art ITM methods.
 
-![model]([https://github.com/Hudjkfhdsjfhdjkg/DAIM/blob/master/imgs/Architecture%40(1).png](https://github.com/Hudjkfhdsjfhdjkg/DAIM/blob/master/imgs/Architecture_newest222(1)_20250106164612-cropped.jpg))
+![model](https://github.com/Hudjkfhdsjfhdjkg/DAIM/blob/master/imgs/Architecture_newest222(1)_20250106164612-cropped.jpg）
 
 ## Requirements 
 We recommended the following dependencies.
